@@ -14,7 +14,7 @@ Registration was taken through Eventbrite [here](https://www.eventbrite.co.uk/e/
 | Time (GMT) | Topic | Materials |
 | --- | --- | --- |
 | 10:00 - 10:15 | Welcome and Introduction to the day | Slides |
-| 10:15 - 11:05 | **Keynote Speakers:**  <ul><li> Anne Lee Steele - Talk title: [`From culture to computation: mapping my open research journey.`](culture_to_computation_ALS.pdf) </li><li> Paz Bernaldo - Talk title: [`Am I in or am I out? Investigating who is in, in open science.`](in_or_out_PB.pdf)</li></ul> | <ul><li> [Recording_1](./Recordings/culture_to_computation_ALS.mp4) </li><li> Recording_2 </li></ul> |
+| 10:15 - 11:05 | **Keynote Speakers:**  <ul><li> Anne Lee Steele - Talk title: [`From culture to computation: mapping my open research journey.`](culture_to_computation_ALS.pdf) </li><li> Paz Bernaldo - Talk title: [`Am I in or am I out? Investigating who is in, in open science.`](in_or_out_PB.pdf)</li></ul> | <ul><li> Recording_1 </li><li> Recording_2 </li></ul> |
 | 11:05 - 11:15 | Break
 | 11:15 - 13:00 | **Data Hazards Workshop**  (Not recorded)
 | 13:00 - 14:00 | Lunch Break - [Yellow Kitchen Catering](http://yellowkitchen.co.uk/)
