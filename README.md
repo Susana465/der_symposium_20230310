@@ -24,3 +24,6 @@ Registration was taken through Eventbrite [here](https://www.eventbrite.co.uk/e/
 | 15:15 - 16:00 | **Embedding Ethics and Reproducibility into your Research Career**  <ul><li>Alden Conner - Talk Title: [`The Turing Way: A collaborative guide to data science and research`](TTW_AC.pdf). </li><li>Melanie Stefan - Talk title: [`The ethical lecture: looking at university teaching through a Data Hazards frame.`](ethical_lecture_MS.pdf)</li></ul> </li><li> Clau Fischer - Talk title: The Turing Commons, Training in AI ethics and responsible research.</li></ul> | <ul><li> Recording_5 </li><li> Recording_6 </li><li> Recording_7 </li></ul> |
 | 16:00 - 16:15 | Facilitated Discussion: Embedding ethics into your research projects - key takeaways
 | 16:15 - 16:30 | Closing remarks
+
+## Volunteer to do's during the event
+- Please find a hackmd link [here](https://hackmd.io/c2AnZHeRRtWaA_QRwobjsQ) and the version control (which doesn't render exactly the same as hackmd) [`here`](volunteer_tasks.md). Feel free to reuse these for your own work. 
